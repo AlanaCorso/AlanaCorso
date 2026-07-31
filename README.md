@@ -49,11 +49,11 @@ Sou estudante do **Ensino Médio integrado ao SENAI**, focada em **Desenvolvimen
 
 <p>
 
-<a href="www.linkedin.com/in/alana-corso-4541b63a2">
+<a href="https://www.linkedin.com/in/alana-corso-4541b63a2">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="alana.corso@aluno.senai.br">
+<a href="mailto:alana.corso@aluno.senai.br">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
