@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AlanaCorso/AlanaCorso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alana Corso
 
-Here are some ideas to get you started:
+### Desenvolvedora em Construção
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`HTML` • `CSS` • `JavaScript` • `PHP` • `MySQL`
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Estudante+SESI+%2B+SENAI;Desenvolvimento+de+Sistemas;Sempre+aprendendo+novas+tecnologias"/>
+
+</div>
+
+---
+
+## 👋 Sobre
+
+Sou estudante do **Ensino Médio integrado ao SENAI**, focada em **Desenvolvimento de Sistemas**.
+
+Atualmente estudo desenvolvimento web, banco de dados e programação, buscando transformar ideias em soluções reais através da tecnologia.
+
+---
+
+## 🛠 Tecnologias
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+
+</p>
+
+### Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+
+</p>
+
+---
+
+
+## 🌱 Atualmente
+
+- 📖 Estudando Desenvolvimento de Sistemas
+- 💻 Desenvolvendo projetos pessoais
+- 🚀 Aprendendo novas tecnologias todos os dias
+
+---
+
+## 📫 Contato
+
+<p>
+
+<a href="www.linkedin.com/in/alana-corso-4541b63a2">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="alana.corso@aluno.senai.br">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+💜
+
+</div>
