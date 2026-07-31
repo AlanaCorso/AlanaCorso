@@ -16,8 +16,6 @@
 
 Sou estudante do **Ensino Médio integrado ao SENAI**, focada em **Desenvolvimento de Sistemas**.
 
-Atualmente estudo desenvolvimento web, banco de dados e programação, buscando transformar ideias em soluções reais através da tecnologia.
-
 ---
 
 ## 🛠 Tecnologias
