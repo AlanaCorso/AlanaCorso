@@ -40,7 +40,7 @@ Sou estudante do **Ensino Médio integrado ao SENAI**, focada em **Desenvolvimen
 ## 🌱 Atualmente
 
 - 📖 Estudando Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos pessoais
+- 💻 Desenvolvendo projetos educacionais 
 - 🚀 Aprendendo novas tecnologias todos os dias
 
 ---
