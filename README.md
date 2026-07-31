@@ -63,6 +63,6 @@ Sou estudante do **Ensino Médio integrado ao SENAI**, focada em **Desenvolvimen
 
 <div align="center">
 
-💜
+💜 :D
 
 </div>
